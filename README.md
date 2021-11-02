@@ -3,7 +3,7 @@
 For Run Api
 
 First : npm install
-Then : npm stat
+Then : npm start
 
 Used cron job for calling Api at every 10 min and followed mvc structure 
 Used Atlas to store data 
