@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 app.set("view engine", "ejs");
 
 // */10 * * * * for 10 min
-// */10 * * * * for 1 min
+// */1 * * * * for 1 min
 
 
 
